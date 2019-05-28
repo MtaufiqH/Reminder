@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group>
+
+    <item android:id="@+id/dashboard"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="dashboard"/>
+
+
+    <item android:id="@+id/person"
+        android:icon="@drawable/ic_person_black"
+        android:title="person"/>
+
+    <item android:id="@+id/settings"
+        android:icon="@drawable/ic_settings_black"
+        android:title="Settings"/>
+
+</group>
+</menu>
